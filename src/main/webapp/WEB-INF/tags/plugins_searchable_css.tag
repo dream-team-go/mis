@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="${root}/statics/plugins/searchable/jquery.searchableSelect.css">
