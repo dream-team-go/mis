@@ -1,4 +1,3 @@
-jdbcUrl = jdbc:mysql://localhost/common_use?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
+jdbcUrl = jdbc:mysql://39.108.218.29/mis?characterEncoding=utf8&zeroDateTimeBehavior=convertToNull
 user = root
-password = 123456
-devMode = true
+password = Dmdz_2018!

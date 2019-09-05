@@ -3,7 +3,7 @@
          xsi:noNamespaceSchemaLocation="ehcache.xsd"
          updateCheck="false" monitoring="autodetect"
          dynamicConfig="true">
-         
+           
     <diskStore path="java.io.tmpdir"/>
     
     <defaultCache
